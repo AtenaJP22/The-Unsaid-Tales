@@ -3,7 +3,7 @@
 
 The Unsaid Tales is an interactive, console-based storytelling program that brings a collection of fictional genres to life. The program allows users to select or play random stories, engaging them through vibrant visuals, immersive storytelling, and interactive elements.
 
-Developed as part of the IC3U1 course's Creative Programming Task (CPT), this project showcases programming skills and creativity in storytelling.
+\n Developed as part of the IC3U1 course's Creative Programming Task (CPT), this project showcases programming skills and creativity in storytelling.
 
 # Features
 
